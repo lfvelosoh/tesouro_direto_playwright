@@ -8,14 +8,6 @@ Este projeto utiliza Python e Playwright para extrair e processar informações 
 - Processa os dados extraídos para gerar um DataFrame organizado.
 - Exibe os dados de forma estruturada.
 
-## 🛠 Tecnologias Utilizadas
-- Python 3+
-- Playwright
-- Pandas
-- Asyncio
-- Nest Asyncio
-- Expressões Regulares (Regex)
-
 ## 🔧 Instalação e Configuração
 
 1. Clone o repositório:
